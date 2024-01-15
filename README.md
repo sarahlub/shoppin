@@ -1,1 +1,7 @@
-ShoppinFun is a platform where users can shop for fresh, smoked fish and other seafood.
+# fisheryApp
+
+A new Flutter project.
+
+## Getting Started
+
+FlutterFlow projects are built to run on the Flutter _stable_ release.

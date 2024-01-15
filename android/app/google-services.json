@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "282103345773",
+    "project_id": "newfishery-66769",
+    "storage_bucket": "newfishery-66769.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282103345773:android:461d9a6d3d55a84f098564",
+        "android_client_info": {
+          "package_name": "com.mycompany.ffenterpriseecomm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa3wH-0ocNUbJIrkIxd2xV6tNE4HnHnB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282103345773:android:7308b5d56fe2c598098564",
+        "android_client_info": {
+          "package_name": "com.mycompany.fishery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa3wH-0ocNUbJIrkIxd2xV6tNE4HnHnB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
